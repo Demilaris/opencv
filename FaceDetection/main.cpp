@@ -25,9 +25,9 @@ int main(int argc, char *argv[])
     char *modelFileName = "/home/blackhand/demilaris/proj/FaceDetection/haarcascade_frontalface_default.xml",
     *videoFileName = 0;
 
-/* Тут прога проверяет, что пользоватль ввёл, когда запустил её
- * из командной строки. Нам это только мешает на данный момент,
- * поэтому я это закомментил
+/* 
+ * 
+ * 
  *
     if (argc <2)
     {
